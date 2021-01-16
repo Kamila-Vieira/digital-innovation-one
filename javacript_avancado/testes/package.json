@@ -1,0 +1,16 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Kamila Almeida",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "sinon": "^9.2.3"
+  }
+}
