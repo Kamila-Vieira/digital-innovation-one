@@ -1,0 +1,2 @@
+https://dotnet.microsoft.com/download
+https://docs.microsoft.com/pt-br/dotnet/
