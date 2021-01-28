@@ -6,7 +6,7 @@ namespace primeiros_passos_dotnet_c_.Heranca
     public Ponto3D(int x, int y, int z) : base(x, y)
     {
       this.z = z;
-      CalcularDistancia();
+      CalcularDistancia(z);
     }
 
     public static void Calcular()

@@ -11,9 +11,10 @@ namespace primeiros_passos_dotnet_c_.Heranca
       this.y = y;
     }
 
-    protected void CalcularDistancia()
+    protected void CalcularDistancia(int distancia)
     {
       //Faz alguma coisa...
+      this.distancia = distancia;
       CalcularDistancia2();
     }
 
