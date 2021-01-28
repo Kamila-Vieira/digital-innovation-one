@@ -1,5 +1,7 @@
 ﻿using System;
 using primeiros_passos_dotnet_c_.Exemplos;
+using primeiros_passos_dotnet_c_.Heranca;
+using primeiros_passos_dotnet_c_.Metodos;
 
 namespace primeiros_passos_dotnet_c_
 {
@@ -32,9 +34,10 @@ namespace primeiros_passos_dotnet_c_
       Console.WriteLine(numeroNullable);
       Console.WriteLine(numeroNaoNullable);
       /* AULA 4 */
-      var instrucoes = new Instrucoes();
-      //instrucoes.Declaracoes();
-      //instrucoes.InstrucaoIf(args);
+      Console.WriteLine("Aula 4");
+      Instrucoes instrucoes = new Instrucoes();
+      Instrucoes.Declaracoes();
+      Instrucoes.InstrucaoIf(args);
       //instrucoes.InstrucaoSwitch(args);
       //instrucoes.InstrucaoWhile(args);
       //instrucoes.InstrucaoDo(args);
@@ -44,7 +47,21 @@ namespace primeiros_passos_dotnet_c_
       //instrucoes.InstrucaoContinue(args);
       //instrucoes.InstrucaoReturn(args);
       //instrucoes.InstrucoesTryCatchFinallyThrow(args);
-      instrucoes.InstrucaoUsing(args);
+      //instrucoes.InstrucaoUsing(args);
+      /* AULA 5 */
+      Console.WriteLine("Aula 5");
+      Ponto p1 = new Ponto(10, 20);
+      Ponto3D p2 = new Ponto3D(20, 30, 40);
+
+      Ponto3D.Calcular();
+      p1.CalcularDistancia3();
+      int yp1 = p1.y;
+      int xp1 = p1.x;
+      int zp2 = p2.z;
+      Out.Dividir(10, 3, out int resultado, out int resto);
+      Console.WriteLine(resultado);
+      Console.WriteLine(resto);
     }
+
   }
 }

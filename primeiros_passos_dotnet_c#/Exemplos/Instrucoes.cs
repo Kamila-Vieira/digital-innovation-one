@@ -4,7 +4,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
 {
   public class Instrucoes
   {
-    public void Declaracoes()
+    public static void Declaracoes()
     {
       int a;
       int b = 2, c = 3;
@@ -13,7 +13,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       Console.WriteLine(a + b + c + d);
     }
 
-    public void InstrucaoIf(string[] args)
+    public static void InstrucaoIf(string[] args)
     {
       if (args.Length == 0)
       {
@@ -29,7 +29,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoSwitch(string[] args)
+    public static void InstrucaoSwitch(string[] args)
     {
       int numeroDeArgumentos = args.Length;
       switch (numeroDeArgumentos)
@@ -46,7 +46,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoWhile(string[] args)
+    public static void InstrucaoWhile(string[] args)
     {
       int i = 0;
       while (i < args.Length)
@@ -56,7 +56,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoDo(string[] args)
+    public static void InstrucaoDo(string[] args)
     {
       string texto;
       do
@@ -66,7 +66,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       } while (!string.IsNullOrEmpty(texto));
     }
 
-    public void InstrucaoFor(string[] args)
+    public static void InstrucaoFor(string[] args)
     {
       for (int i = 0; i < args.Length; i++)
       {
@@ -74,7 +74,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoForeach(string[] args)
+    public static void InstrucaoForeach(string[] args)
     {
       foreach (string s in args)
       {
@@ -82,7 +82,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoBreak(string[] args)
+    public static void InstrucaoBreak(string[] args)
     {
       while (true)
       {
@@ -95,7 +95,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoContinue(string[] args)
+    public static void InstrucaoContinue(string[] args)
     {
       for (int i = 0; i < args.Length; i++)
       {
@@ -108,7 +108,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoReturn(string[] args)
+    public static void InstrucaoReturn(string[] args)
     {
       int Somar(int a, int b)
       {
@@ -120,7 +120,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       return;
     }
 
-    public void InstrucoesTryCatchFinallyThrow(string[] args)
+    public static void InstrucoesTryCatchFinallyThrow(string[] args)
     {
       double Dividir(double x, double y)
       {
@@ -155,7 +155,7 @@ namespace primeiros_passos_dotnet_c_.Exemplos
       }
     }
 
-    public void InstrucaoUsing(string[] args)
+    public static void InstrucaoUsing(string[] args)
     {
       System.IO.TextWriter w;
       w = System.IO.File.CreateText("teste2.txt");
