@@ -1,0 +1,16 @@
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\primeiros_passos_dotnet_c#.exe
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\primeiros_passos_dotnet_c#.deps.json
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\primeiros_passos_dotnet_c#.runtimeconfig.json
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\primeiros_passos_dotnet_c#.runtimeconfig.dev.json
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\primeiros_passos_dotnet_c#.dll
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\ref\primeiros_passos_dotnet_c#.dll
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\bin\Debug\net5.0\primeiros_passos_dotnet_c#.pdb
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.csprojAssemblyReference.cache
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.AssemblyInfoInputs.cache
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.AssemblyInfo.cs
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.csproj.CoreCompileInputs.cache
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.dll
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\ref\primeiros_passos_dotnet_c#.dll
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.pdb
+C:\Users\kamila.almeida\Documents\digital-innovation-one\primeiros_passos_dotnet_c#\obj\Debug\net5.0\primeiros_passos_dotnet_c#.genruntimeconfig.cache
