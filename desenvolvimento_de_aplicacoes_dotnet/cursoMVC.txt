@@ -1,0 +1,6 @@
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+@"Server=(localdb)mssqllocaldb;Database=Cursomvc;Integrated Security=True"
+
+Add Migration InitialCreate
