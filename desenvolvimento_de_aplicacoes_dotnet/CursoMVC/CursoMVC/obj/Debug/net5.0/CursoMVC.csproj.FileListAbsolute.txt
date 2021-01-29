@@ -346,3 +346,4 @@ C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_apli
 C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
 C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoMVC\obj\Debug\net5.0\CursoMVC.csprojAssemblyReference.cache
