@@ -1,4 +1,0 @@
-C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoTeste\obj\Debug\netcoreapp3.1\CursoTeste.csprojAssemblyReference.cache
-C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoTeste\obj\Debug\netcoreapp3.1\CursoTeste.AssemblyInfoInputs.cache
-C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoTeste\obj\Debug\netcoreapp3.1\CursoTeste.AssemblyInfo.cs
-C:\Users\kamila.almeida\Documents\digital-innovation-one\desenvolvimento_de_aplicacoes_dotnet\CursoMVC\CursoTeste\obj\Debug\netcoreapp3.1\CursoTeste.csproj.CoreCompileInputs.cache
