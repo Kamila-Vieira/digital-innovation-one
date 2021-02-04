@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAJBuHkO5dBUqgcmhZABKR3QAAAAACAAAAAAADZgAAwAAAABAAAACKZZLdaYRHIGslHIj4kLjgAAAAAASAAACgAAAAEAAAAPfCGkJfhmjV8GqhRKm/+OWAAAAAED24EuVV/oJrwJeqgWDPyNlYvACeMer39sKqa/NomKswn4POjo25sGq4UcR51TGBBTKOPM3uywmZt3R5TZFPVCn4Z6kWWv0PEwfTIeSJcPOdqhslYl3tYa5TPHZYKKoNOfuBSmyJg8gYbgF1jhx8D4a1+UbQ+3fgrNpIv9jThvwUAAAAEcOmnL81nnSGsFNpsEAD5mN9z2E=</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="CursoMVC.Models.Context">
+      <Value>Data Source=tcp:cursodiomvcdbserver.database.windows.net,1433%3bInitial Catalog=CursoMVC_db%3bUser Id=kamila%40cursodiomvcdbserver%3bPassword=Ka60586421</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
