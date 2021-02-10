@@ -10,6 +10,7 @@ namespace primeiros_passos_dotnet_c_
   {
     static void Main(string[] args)
     {
+
       /* AULA 1 */
       Console.WriteLine("Aula 1");
       int numeroDeVezes = 5;
@@ -158,6 +159,5 @@ namespace primeiros_passos_dotnet_c_
       string opcaoUsuario = Console.ReadLine();
       return opcaoUsuario;
     }
-
   }
 }
