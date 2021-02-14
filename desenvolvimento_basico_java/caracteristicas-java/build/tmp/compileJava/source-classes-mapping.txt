@@ -1,0 +1,8 @@
+one/digitalinnovation/classes/Programa.java
+ one.digitalinnovation.classes.Programa
+one/digitalinnovation/classes/usuario/SuperUsuario.java
+ one.digitalinnovation.classes.usuario.SuperUsuario
+one/digitalinnovation/classes/usuario/ProgramaDoUsuario.java
+ one.digitalinnovation.classes.usuario.ProgramaDoUsuario
+one/digitalinnovation/abstracts/Programa.java
+ one.digitalinnovation.abstracts.Programa

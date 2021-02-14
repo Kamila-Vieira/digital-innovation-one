@@ -1,0 +1,11 @@
+gradle wrapper
+gradlew -v
+no linux ./gradlew -v
+C:\Gradle\gradle-6.8.2\bin no path
+
+mvn -N io.takari:maven:wrapper
+mvnw -v
+no linux ./mvnw -v
+C:\Maven\apache-maven-3.6.3\bin no path
+C:\Program Files\Java\jdk-10.0.2\bin
+https://start.spring.io/
